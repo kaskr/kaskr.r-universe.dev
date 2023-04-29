@@ -3,5 +3,11 @@
     "package": "RTMB",
     "url": "https://github.com/kaskr/RTMB",
     "subdir": "RTMB"
+  },
+  {
+    "package": "RTMBp",
+    "url": "https://github.com/kaskr/RTMB",
+    "subdir": "RTMBp",
+    "branch": "RTMBp"
   }
 ]
