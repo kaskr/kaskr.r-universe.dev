@@ -19,5 +19,10 @@
     "package": "tmbstan",
     "url": "https://github.com/kaskr/tmbstan",
     "subdir": "tmbstan"
+  },
+  {
+    "package": "TMB",
+    "url": "https://github.com/kaskr/adcomp",
+    "subdir": "TMB"
   }
 ]
