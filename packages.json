@@ -14,5 +14,10 @@
     "url": "https://github.com/kaskr/RTMB",
     "subdir": "RTMBp",
     "branch": "RTMBp"
+  },
+  {
+    "package": "tmbstan",
+    "url": "https://github.com/kaskr/tmbstan",
+    "subdir": "tmbstan"
   }
 ]
